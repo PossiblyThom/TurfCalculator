@@ -1,0 +1,13 @@
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.vbprojResolveAssemblyReference.cache
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.Form1.resources
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.Invoice.resources
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.Resources.resources
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.vbproj.GenerateResource.cache
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.vbproj.CoreCompileInputs.cache
+M:\Git\TurfCalculator\TurfCalculator\bin\Debug\TurfCalculator.exe.config
+M:\Git\TurfCalculator\TurfCalculator\bin\Debug\TurfCalculator.exe
+M:\Git\TurfCalculator\TurfCalculator\bin\Debug\TurfCalculator.pdb
+M:\Git\TurfCalculator\TurfCalculator\bin\Debug\TurfCalculator.xml
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.exe
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.xml
+M:\Git\TurfCalculator\TurfCalculator\obj\Debug\TurfCalculator.pdb
